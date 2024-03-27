@@ -5,13 +5,9 @@ title: Davy Dhermand
 # Davy Dhermand
 Développeur
 
-<div id="webaddress">
-<a href="davvv49@gmail.com">davvv49@gmail.com</a>
-</a>
-</div>
-"email":"davvv49@gmail.com",
-"location":"1214 Kerlec, 29380 Bannalec",
-"phoneNumber":"(+33)7 65 55 33 77",
+<div id="webaddress"><a href="davvv49@gmail.com">davvv49@gmail.com</a></div>
+1214 Kerlec, 29380 Bannalec",
+(+33)7 65 55 33 77"
 
 ### Competences
 - c#, WPF/MVVM, ASP.NET, VB.NET, Winform
