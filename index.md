@@ -1,13 +1,21 @@
+--
+name: Davy Dhermand
+header:
+- text: <span class="iconify" data-icon="tabler:phone"></span> (+33)7 65 55 33 77
+- text: <span class="iconify" data-icon="tabler:mail"></span> davvv49@gmail.com
+- text: <span class="iconify" data-icon="ic:outline-location-on"></span> 1214 Kerlec, 29380 Bannalec
 ---
-layout: cv
-title: Davy Dhermand
----
-# Davy Dhermand
+
+# 
 Développeur
 
-<div id="webaddress"><a href="davvv49@gmail.com">davvv49@gmail.com</a></div>
-1214 Kerlec, 29380 Bannalec",
-(+33)7 65 55 33 77"
+<div id="webaddress">
+<a href="davvv49@gmail.com">davvv49@gmail.com</a>
+</a>
+</div>
+"email":"davvv49@gmail.com",
+"location":"",
+"phoneNumber":"",
 
 ### Competences
 - c#, WPF/MVVM, ASP.NET, VB.NET, Winform
@@ -83,6 +91,8 @@ __Développeur Informatique__
 - Mettre en place les changements de tarif mondiaux en partenariat avec colissimo(génération étiquette, adressage des kits etc…) 
 - Création d’une suite logicielle pour la création/gestion/confirmation des slogans/towndies (de la création de l’OF à la livraison finale
 - Développement des bancs de test pour 3 machines.
+
+
 
 
 
